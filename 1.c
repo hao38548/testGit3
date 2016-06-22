@@ -7,4 +7,4 @@ mmmmmmm
 eeeeeeeeeeee
 wwwwwwwwwwwww
 this is the 4th with 3.c
-rm 3.c
+this the add
